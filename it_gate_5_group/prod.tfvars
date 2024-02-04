@@ -1,0 +1,6 @@
+vpc_cidr             = "192.0.0.0/16"
+name                 = "prod"
+public_subnet1_cidr  = "192.0.1.0/16"
+public_subnet2_cidr  = "192.0.2.0/16"
+private_subnet1_cidr = "192.0.3.0/16"
+private_subnet2_cidr = "192.0.4.0/16"
